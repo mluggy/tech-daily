@@ -9,4 +9,55 @@
 # date, duration, and size are auto-filled by coil's pipeline.
 # cost (USD) is filled by daily_digest.py: Pass1 + Pass2 + TTS per episode.
 
-episodes: {}
+episodes:
+  1:
+    season: 2026
+    title: Apple Records, PC Growth, and Cyber Breaches Surge
+    description: Apple achieves record sales during Tim Cook's CEO transition 
+      amid chip shortage concerns; global PC shipments grow 4% led by Apple 
+      hardware; Instructure's Canvas platform hit by major data breach affecting
+      thousands of schools along with other cybersecurity incidents.
+    cost: 1.6786
+  2:
+    season: 2026
+    title: Ubuntu DDoS, Canvas Breach, and Meta's New Mexico Threat
+    description: This episode covers a major DDoS attack disrupting Ubuntu and 
+      Canonical services, a widespread breach of the Canvas learning management 
+      system exposing student data, and Meta threatening to withdraw its 
+      platforms from New Mexico over child safety demands. It also includes 
+      critical Linux vulnerabilities and big tech infrastructure updates.
+    cost: 1.8301
+  3:
+    season: 2026
+    title: AMD Growth, Samsung China Exit, Xbox UI Update
+    description: AMD posted strong Q1 results with surging data center revenue. 
+      Samsung is withdrawing from the Chinese consumer electronics market. 
+      Microsoft previewed a unified Xbox interface. Cybersecurity saw new 
+      ransomware claims and Qualcomm patches. New gadgets from Minisforum and 
+      ZOTAC also debuted.
+    cost: 2.149
+  4:
+    season: 2026
+    title: Intel-Apple Chip Deal, reMarkable Tablet, and Ransomware Record
+    description: This episode covers Intel securing a major custom chip supply 
+      deal with Apple, reMarkable's launch of the Paper Pure e-ink tablet, and 
+      the ADT home security data breach exposing 5.5 million records, alongside 
+      hardware releases, software updates, and other cybersecurity developments.
+    cost: 1.3821
+  5:
+    season: 2026
+    title: Linux Flaws, cPanel Hacks, and Supply Chain Threats
+    description: This episode details the CopyFail Linux kernel vulnerability, 
+      active exploitation of cPanel flaws compromising websites, and a Daemon 
+      Tools supply chain backdoor attack. It also covers North Korean gaming 
+      platform malware and healthcare data sharing pauses.
+    cost: 1.3805
+  6:
+    season: 2026
+    title: HawkEye IPO, Samsung China Exit, Layoffs Hit Tech Giants
+    description: Covers HawkEye 360's $416 million IPO at $2.4 billion 
+      valuation, Samsung's full exit from China TV and home appliance sales, 
+      Cloudflare's 1,100-job cut, Upwork and BILL restructurings, Google's 
+      Fitbit Air launch, Arm's smartphone warning, and gaming releases plus 
+      robotics and funding moves on May 7.
+    cost: 2.5073
