@@ -17,7 +17,7 @@ episodes:
       amid chip shortage concerns; global PC shipments grow 4% led by Apple 
       hardware; Instructure's Canvas platform hit by major data breach affecting
       thousands of schools along with other cybersecurity incidents.
-    date: "2026-05-04"
+    date: "2026-04-30"
     cost: 1.6786
   2:
     season: 2026
@@ -27,7 +27,7 @@ episodes:
       system exposing student data, and Meta threatening to withdraw its 
       platforms from New Mexico over child safety demands. It also includes 
       critical Linux vulnerabilities and big tech infrastructure updates.
-    date: "2026-05-05"
+    date: "2026-05-01"
     cost: 1.8301
   3:
     season: 2026
@@ -37,7 +37,7 @@ episodes:
       Microsoft previewed a unified Xbox interface. Cybersecurity saw new 
       ransomware claims and Qualcomm patches. New gadgets from Minisforum and 
       ZOTAC also debuted.
-    date: "2026-05-06"
+    date: "2026-05-04"
     cost: 2.149
   4:
     season: 2026
@@ -46,7 +46,7 @@ episodes:
       deal with Apple, reMarkable's launch of the Paper Pure e-ink tablet, and 
       the ADT home security data breach exposing 5.5 million records, alongside 
       hardware releases, software updates, and other cybersecurity developments.
-    date: "2026-05-07"
+    date: "2026-05-05"
     cost: 1.3821
   5:
     season: 2026
@@ -55,7 +55,7 @@ episodes:
       active exploitation of cPanel flaws compromising websites, and a Daemon 
       Tools supply chain backdoor attack. It also covers North Korean gaming 
       platform malware and healthcare data sharing pauses.
-    date: "2026-05-08"
+    date: "2026-05-06"
     cost: 1.3805
   6:
     season: 2026
@@ -65,5 +65,5 @@ episodes:
       Cloudflare's 1,100-job cut, Upwork and BILL restructurings, Google's 
       Fitbit Air launch, Arm's smartphone warning, and gaming releases plus 
       robotics and funding moves on May 7.
-    date: "2026-05-11"
+    date: "2026-05-07"
     cost: 2.5073
