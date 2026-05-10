@@ -10,7 +10,7 @@
       <link>{{SITE_URL}}</link>
     </image>
     <generator>coil — https://github.com/mluggy/coil</generator>
-    <lastBuildDate>Sun, 10 May 2026 09:41:26 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 10 May 2026 11:24:31 GMT</lastBuildDate>
     <atom:link href="{{SITE_URL}}/rss.xml" rel="self" type="application/rss+xml" />
     <copyright>CC BY 4.0</copyright>
     <language>en</language>
@@ -31,5 +31,101 @@
     <podcast:publisher>Michael Lugassy</podcast:publisher>
     <podcast:updateFrequency>daily</podcast:updateFrequency>
     <podcast:person role="host" href="https://x.com/mluggy">Michael Lugassy</podcast:person>
+    <item>
+      <title>Apple Records, PC Growth, and Cyber Breaches Surge</title>
+      <description>Apple achieves record sales during Tim Cook&apos;s CEO transition amid chip shortage concerns; global PC shipments grow 4% led by Apple hardware; Instructure&apos;s Canvas platform hit by major data breach affecting thousands of schools along with other cybersecurity incidents.</description>
+      <link>{{SITE_URL}}/1</link>
+      <guid isPermaLink="false">s2026e1</guid>
+      <pubDate>Mon, 04 May 2026 00:00:00 GMT</pubDate>
+      <enclosure url="{{SITE_URL}}/s2026e1.mp3" length="0" type="audio/mpeg" />
+      <itunes:summary>Apple achieves record sales during Tim Cook&apos;s CEO transition amid chip shortage concerns; global PC shipments grow 4% led by Apple hardware; Instructure&apos;s Canvas platform hit by major data breach affecting thousands of schools along with other cybersecurity incidents.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>00:00</itunes:duration>
+      <itunes:image href="{{SITE_URL}}/s2026e1.jpg" />
+      <itunes:season>2026</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <dc:creator>Michael Lugassy</dc:creator>
+    </item>
+    <item>
+      <title>Ubuntu DDoS, Canvas Breach, and Meta&apos;s New Mexico Threat</title>
+      <description>This episode covers a major DDoS attack disrupting Ubuntu and Canonical services, a widespread breach of the Canvas learning management system exposing student data, and Meta threatening to withdraw its platforms from New Mexico over child safety demands. It also includes critical Linux vulnerabilities and big tech infrastructure updates.</description>
+      <link>{{SITE_URL}}/2</link>
+      <guid isPermaLink="false">s2026e2</guid>
+      <pubDate>Tue, 05 May 2026 00:00:00 GMT</pubDate>
+      <enclosure url="{{SITE_URL}}/s2026e2.mp3" length="0" type="audio/mpeg" />
+      <itunes:summary>This episode covers a major DDoS attack disrupting Ubuntu and Canonical services, a widespread breach of the Canvas learning management system exposing student data, and Meta threatening to withdraw its platforms from New Mexico over child safety demands. It also includes critical Linux vulnerabilities and big tech infrastructure updates.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>00:00</itunes:duration>
+      <itunes:image href="{{SITE_URL}}/s2026e2.jpg" />
+      <itunes:season>2026</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <dc:creator>Michael Lugassy</dc:creator>
+    </item>
+    <item>
+      <title>AMD Growth, Samsung China Exit, Xbox UI Update</title>
+      <description>AMD posted strong Q1 results with surging data center revenue. Samsung is withdrawing from the Chinese consumer electronics market. Microsoft previewed a unified Xbox interface. Cybersecurity saw new ransomware claims and Qualcomm patches. New gadgets from Minisforum and ZOTAC also debuted.</description>
+      <link>{{SITE_URL}}/3</link>
+      <guid isPermaLink="false">s2026e3</guid>
+      <pubDate>Wed, 06 May 2026 00:00:00 GMT</pubDate>
+      <enclosure url="{{SITE_URL}}/s2026e3.mp3" length="0" type="audio/mpeg" />
+      <itunes:summary>AMD posted strong Q1 results with surging data center revenue. Samsung is withdrawing from the Chinese consumer electronics market. Microsoft previewed a unified Xbox interface. Cybersecurity saw new ransomware claims and Qualcomm patches. New gadgets from Minisforum and ZOTAC also debuted.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>00:00</itunes:duration>
+      <itunes:image href="{{SITE_URL}}/s2026e3.jpg" />
+      <itunes:season>2026</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <dc:creator>Michael Lugassy</dc:creator>
+    </item>
+    <item>
+      <title>Intel-Apple Chip Deal, reMarkable Tablet, and Ransomware Record</title>
+      <description>This episode covers Intel securing a major custom chip supply deal with Apple, reMarkable&apos;s launch of the Paper Pure e-ink tablet, and the ADT home security data breach exposing 5.5 million records, alongside hardware releases, software updates, and other cybersecurity developments.</description>
+      <link>{{SITE_URL}}/4</link>
+      <guid isPermaLink="false">s2026e4</guid>
+      <pubDate>Thu, 07 May 2026 00:00:00 GMT</pubDate>
+      <enclosure url="{{SITE_URL}}/s2026e4.mp3" length="0" type="audio/mpeg" />
+      <itunes:summary>This episode covers Intel securing a major custom chip supply deal with Apple, reMarkable&apos;s launch of the Paper Pure e-ink tablet, and the ADT home security data breach exposing 5.5 million records, alongside hardware releases, software updates, and other cybersecurity developments.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>00:00</itunes:duration>
+      <itunes:image href="{{SITE_URL}}/s2026e4.jpg" />
+      <itunes:season>2026</itunes:season>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <dc:creator>Michael Lugassy</dc:creator>
+    </item>
+    <item>
+      <title>Linux Flaws, cPanel Hacks, and Supply Chain Threats</title>
+      <description>This episode details the CopyFail Linux kernel vulnerability, active exploitation of cPanel flaws compromising websites, and a Daemon Tools supply chain backdoor attack. It also covers North Korean gaming platform malware and healthcare data sharing pauses.</description>
+      <link>{{SITE_URL}}/5</link>
+      <guid isPermaLink="false">s2026e5</guid>
+      <pubDate>Fri, 08 May 2026 00:00:00 GMT</pubDate>
+      <enclosure url="{{SITE_URL}}/s2026e5.mp3" length="0" type="audio/mpeg" />
+      <itunes:summary>This episode details the CopyFail Linux kernel vulnerability, active exploitation of cPanel flaws compromising websites, and a Daemon Tools supply chain backdoor attack. It also covers North Korean gaming platform malware and healthcare data sharing pauses.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>00:00</itunes:duration>
+      <itunes:image href="{{SITE_URL}}/s2026e5.jpg" />
+      <itunes:season>2026</itunes:season>
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <dc:creator>Michael Lugassy</dc:creator>
+    </item>
+    <item>
+      <title>HawkEye IPO, Samsung China Exit, Layoffs Hit Tech Giants</title>
+      <description>Covers HawkEye 360&apos;s $416 million IPO at $2.4 billion valuation, Samsung&apos;s full exit from China TV and home appliance sales, Cloudflare&apos;s 1,100-job cut, Upwork and BILL restructurings, Google&apos;s Fitbit Air launch, Arm&apos;s smartphone warning, and gaming releases plus robotics and funding moves on May 7.</description>
+      <link>{{SITE_URL}}/6</link>
+      <guid isPermaLink="false">s2026e6</guid>
+      <pubDate>Mon, 11 May 2026 00:00:00 GMT</pubDate>
+      <enclosure url="{{SITE_URL}}/s2026e6.mp3" length="0" type="audio/mpeg" />
+      <itunes:summary>Covers HawkEye 360&apos;s $416 million IPO at $2.4 billion valuation, Samsung&apos;s full exit from China TV and home appliance sales, Cloudflare&apos;s 1,100-job cut, Upwork and BILL restructurings, Google&apos;s Fitbit Air launch, Arm&apos;s smartphone warning, and gaming releases plus robotics and funding moves on May 7.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>00:00</itunes:duration>
+      <itunes:image href="{{SITE_URL}}/s2026e6.jpg" />
+      <itunes:season>2026</itunes:season>
+      <itunes:episode>6</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <dc:creator>Michael Lugassy</dc:creator>
+    </item>
   </channel>
 </rss>
