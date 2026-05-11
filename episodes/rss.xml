@@ -10,7 +10,7 @@
       <link>{{SITE_URL}}</link>
     </image>
     <generator>coil — https://github.com/mluggy/coil</generator>
-    <lastBuildDate>Mon, 11 May 2026 14:56:30 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 15:02:21 GMT</lastBuildDate>
     <atom:link href="{{SITE_URL}}/rss.xml" rel="self" type="application/rss+xml" />
     <copyright>CC BY 4.0</copyright>
     <language>en</language>
@@ -130,6 +130,22 @@
       <itunes:image href="{{SITE_URL}}/s2026e6.jpg" />
       <itunes:season>2026</itunes:season>
       <itunes:episode>6</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <dc:creator>Michael Lugassy</dc:creator>
+    </item>
+    <item>
+      <title>Ramp $40B Raise, Rocket Lab M&amp;A, Xbox UI Tease</title>
+      <description>Ramp eyes over $40 billion valuation in new funding round, Rocket Lab acquires space robotics firm Motiv, Truecaller cuts 70 jobs, Microsoft teases Xbox dashboard overhaul, Valve delays Steam Machine due to RAM shortages, and Game Pass adds major titles.</description>
+      <link>{{SITE_URL}}/7</link>
+      <guid isPermaLink="false">s2026e7</guid>
+      <pubDate>Mon, 11 May 2026 00:00:00 GMT</pubDate>
+      <enclosure url="{{SITE_URL}}/s2026e7.mp3" length="17601113" type="audio/mpeg" />
+      <itunes:summary>Ramp eyes over $40 billion valuation in new funding round, Rocket Lab acquires space robotics firm Motiv, Truecaller cuts 70 jobs, Microsoft teases Xbox dashboard overhaul, Valve delays Steam Machine due to RAM shortages, and Game Pass adds major titles.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>12:12</itunes:duration>
+      <itunes:image href="{{SITE_URL}}/s2026e7.jpg" />
+      <itunes:season>2026</itunes:season>
+      <itunes:episode>7</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <dc:creator>Michael Lugassy</dc:creator>
     </item>
