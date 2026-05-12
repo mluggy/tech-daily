@@ -2,9 +2,11 @@ name: Daily Digest
 
 on:
   schedule:
-    # 06:00 UTC Mon-Thu. Monday's run auto-covers Fri+Sat+Sun as one
-    # combined episode (see resolve_dates() in scripts/daily_digest.py).
-    - cron: '0 6 * * 1-5'
+    # 08:23 UTC every weekday — past midnight Pacific year-round (00:23 PST
+    # / 01:23 PDT) and off-the-hour to dodge GH Actions queue spikes.
+    # Monday's run auto-covers Fri+Sat+Sun as one combined episode (see
+    # resolve_dates() in scripts/daily_digest.py).
+    - cron: '23 8 * * 1-5'
   workflow_dispatch:
     inputs:
       date:
