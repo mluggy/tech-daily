@@ -10,7 +10,7 @@
       <link>{{SITE_URL}}</link>
     </image>
     <generator>coil — https://github.com/mluggy/coil</generator>
-    <lastBuildDate>Mon, 11 May 2026 17:16:16 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 07:29:54 GMT</lastBuildDate>
     <atom:link href="{{SITE_URL}}/rss.xml" rel="self" type="application/rss+xml" />
     <copyright>CC BY 4.0</copyright>
     <language>en</language>
@@ -146,6 +146,22 @@
       <itunes:image href="{{SITE_URL}}/s2026e7.jpg" />
       <itunes:season>2026</itunes:season>
       <itunes:episode>7</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <dc:creator>Michael Lugassy</dc:creator>
+    </item>
+    <item>
+      <title>Starbucks Cuts, Amazon Logistics Push, Battery Funding Surge</title>
+      <description>Starbucks cuts 61 tech jobs in Seattle, Moment Energy raises $40M for EV battery gigafactory, Amazon launches Supply Chain Services to compete with UPS and FedEx, Avalanche Energy wins DOD nuclear battery award, plus funding rounds, hardware shipments, gaming leadership changes and IPO updates.</description>
+      <link>{{SITE_URL}}/8</link>
+      <guid isPermaLink="false">s2026e8</guid>
+      <pubDate>Tue, 12 May 2026 00:00:00 GMT</pubDate>
+      <enclosure url="{{SITE_URL}}/s2026e8.mp3" length="18315910" type="audio/mpeg" />
+      <itunes:summary>Starbucks cuts 61 tech jobs in Seattle, Moment Energy raises $40M for EV battery gigafactory, Amazon launches Supply Chain Services to compete with UPS and FedEx, Avalanche Energy wins DOD nuclear battery award, plus funding rounds, hardware shipments, gaming leadership changes and IPO updates.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>12:42</itunes:duration>
+      <itunes:image href="{{SITE_URL}}/s2026e8.jpg" />
+      <itunes:season>2026</itunes:season>
+      <itunes:episode>8</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <dc:creator>Michael Lugassy</dc:creator>
     </item>
