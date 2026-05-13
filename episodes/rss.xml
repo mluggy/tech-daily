@@ -10,7 +10,7 @@
       <link>{{SITE_URL}}</link>
     </image>
     <generator>coil — https://github.com/mluggy/coil</generator>
-    <lastBuildDate>Tue, 12 May 2026 20:07:13 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 09:30:34 GMT</lastBuildDate>
     <atom:link href="{{SITE_URL}}/rss.xml" rel="self" type="application/rss+xml" />
     <copyright>CC BY 4.0</copyright>
     <language>en</language>
@@ -162,6 +162,22 @@
       <itunes:image href="{{SITE_URL}}/s2026e8.jpg" />
       <itunes:season>2026</itunes:season>
       <itunes:episode>8</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <dc:creator>Michael Lugassy</dc:creator>
+    </item>
+    <item>
+      <title>Lime IPO Filing, Havoc $100M Raise, Samsung $1T Chip Rally</title>
+      <description>Lime files for IPO amid $1B liabilities and revenue surge. Havoc lands $100M for autonomous vessels. QuantWare closes $178M quantum chip round. Samsung hits $1T valuation on memory demand. Major game launches and Sony PS6 confirmation highlight the day.</description>
+      <link>{{SITE_URL}}/9</link>
+      <guid isPermaLink="false">s2026e9</guid>
+      <pubDate>Wed, 13 May 2026 00:00:00 GMT</pubDate>
+      <enclosure url="{{SITE_URL}}/s2026e9.mp3" length="19427956" type="audio/mpeg" />
+      <itunes:summary>Lime files for IPO amid $1B liabilities and revenue surge. Havoc lands $100M for autonomous vessels. QuantWare closes $178M quantum chip round. Samsung hits $1T valuation on memory demand. Major game launches and Sony PS6 confirmation highlight the day.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>13:28</itunes:duration>
+      <itunes:image href="{{SITE_URL}}/s2026e9.jpg" />
+      <itunes:season>2026</itunes:season>
+      <itunes:episode>9</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <dc:creator>Michael Lugassy</dc:creator>
     </item>
