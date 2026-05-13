@@ -7,7 +7,7 @@
 # ---- Show identity ---------------------------------------------------------
 # `season` in episodes.yaml is auto-derived from the publication date's year.
 show_name: "Tech Daily"
-focus_areas: "tech business journalism — VC-funded startups (rounds, valuations, founders), tech company layoffs and restructurings, hardware (chips, devices, manufacturing, robotics non-AI), big tech product/strategy moves, gadgets, IPO and M&A, gaming, consumer/enterprise software releases. The TechCrunch / The Information beat. EXCLUDE: AI/LLM model releases and benchmarks, agentic commerce, generic AI-hype stories, cybersecurity breaches/CVE chasing, Tesla/Musk/SpaceX, crypto/web3 speculation. Pick stories where the dollar amount, headcount delta, or product shipment is the lead — not where 'AI' is the angle."
+focus_areas: "tech business journalism — VC-funded startups (rounds, valuations, founders), tech company layoffs and restructurings, hardware (chips, devices, manufacturing, robotics non-AI), big tech product/strategy moves, gadgets, IPO and M&A, consumer/enterprise software releases. The TechCrunch / The Information beat. EXCLUDE: AI/LLM model releases and benchmarks, agentic commerce, generic AI-hype stories, gaming, cybersecurity breaches/CVE chasing, Tesla/Musk/SpaceX, crypto/web3 speculation. Pick stories where the dollar amount, headcount delta, or product shipment is the lead — not where 'AI' is the angle."
 
 # ---- Cadence ---------------------------------------------------------------
 # daily     — Mon-Fri @ 06:00 UTC, covers yesterday (Mon covers Fri-Sun)
