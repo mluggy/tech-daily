@@ -10,7 +10,7 @@
       <link>{{SITE_URL}}</link>
     </image>
     <generator>coil — https://github.com/mluggy/coil</generator>
-    <lastBuildDate>Wed, 13 May 2026 19:19:12 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 09:27:23 GMT</lastBuildDate>
     <atom:link href="{{SITE_URL}}/rss.xml" rel="self" type="application/rss+xml" />
     <copyright>CC BY 4.0</copyright>
     <language>en</language>
@@ -178,6 +178,22 @@
       <itunes:image href="{{SITE_URL}}/s2026e9.jpg" />
       <itunes:season>2026</itunes:season>
       <itunes:episode>9</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <dc:creator>Michael Lugassy</dc:creator>
+    </item>
+    <item>
+      <title>Anduril $5B Raise, Fervo IPO Pop, Robotics Boost</title>
+      <description>Anduril closed a $5 billion round at a $61 billion valuation. Fervo Energy raised $1.89 billion in its IPO and popped 33 percent on debut. Mind Robotics secured another $400 million, alongside Cisco&apos;s 4,000 job cuts and Blackstone&apos;s $2 billion infrastructure IPO.</description>
+      <link>{{SITE_URL}}/10</link>
+      <guid isPermaLink="false">s2026e10</guid>
+      <pubDate>Thu, 14 May 2026 00:00:00 GMT</pubDate>
+      <enclosure url="{{SITE_URL}}/s2026e10.mp3" length="18144585" type="audio/mpeg" />
+      <itunes:summary>Anduril closed a $5 billion round at a $61 billion valuation. Fervo Energy raised $1.89 billion in its IPO and popped 33 percent on debut. Mind Robotics secured another $400 million, alongside Cisco&apos;s 4,000 job cuts and Blackstone&apos;s $2 billion infrastructure IPO.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>12:35</itunes:duration>
+      <itunes:image href="{{SITE_URL}}/s2026e10.jpg" />
+      <itunes:season>2026</itunes:season>
+      <itunes:episode>10</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <dc:creator>Michael Lugassy</dc:creator>
     </item>
