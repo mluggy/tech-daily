@@ -10,7 +10,7 @@
       <link>{{SITE_URL}}</link>
     </image>
     <generator>coil — https://github.com/mluggy/coil</generator>
-    <lastBuildDate>Thu, 14 May 2026 09:27:23 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 09:33:09 GMT</lastBuildDate>
     <atom:link href="{{SITE_URL}}/rss.xml" rel="self" type="application/rss+xml" />
     <copyright>CC BY 4.0</copyright>
     <language>en</language>
@@ -194,6 +194,22 @@
       <itunes:image href="{{SITE_URL}}/s2026e10.jpg" />
       <itunes:season>2026</itunes:season>
       <itunes:episode>10</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <dc:creator>Michael Lugassy</dc:creator>
+    </item>
+    <item>
+      <title>Layoffs Hit Tech as Big Funding and Hardware Moves Emerge</title>
+      <description>This episode covers major workforce reductions at Takeda and LinkedIn, Oishii&apos;s $150 million Series C for vertical farming scale-up, UMC&apos;s 14nm chip technology launch, IQM&apos;s Nasdaq listing filing, and robotics hardware deployments plus IPO activity.</description>
+      <link>{{SITE_URL}}/11</link>
+      <guid isPermaLink="false">s2026e11</guid>
+      <pubDate>Fri, 15 May 2026 00:00:00 GMT</pubDate>
+      <enclosure url="{{SITE_URL}}/s2026e11.mp3" length="18790977" type="audio/mpeg" />
+      <itunes:summary>This episode covers major workforce reductions at Takeda and LinkedIn, Oishii&apos;s $150 million Series C for vertical farming scale-up, UMC&apos;s 14nm chip technology launch, IQM&apos;s Nasdaq listing filing, and robotics hardware deployments plus IPO activity.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>13:02</itunes:duration>
+      <itunes:image href="{{SITE_URL}}/s2026e11.jpg" />
+      <itunes:season>2026</itunes:season>
+      <itunes:episode>11</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <dc:creator>Michael Lugassy</dc:creator>
     </item>
