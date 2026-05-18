@@ -10,7 +10,7 @@
       <link>{{SITE_URL}}</link>
     </image>
     <generator>coil — https://github.com/mluggy/coil</generator>
-    <lastBuildDate>Mon, 18 May 2026 09:13:01 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 09:45:42 GMT</lastBuildDate>
     <atom:link href="{{SITE_URL}}/rss.xml" rel="self" type="application/rss+xml" />
     <copyright>CC BY 4.0</copyright>
     <language>en</language>
@@ -210,6 +210,22 @@
       <itunes:image href="{{SITE_URL}}/s2026e11.jpg" />
       <itunes:season>2026</itunes:season>
       <itunes:episode>11</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <dc:creator>Michael Lugassy</dc:creator>
+    </item>
+    <item>
+      <title>Space Power Grids, IPO Pops, Startup Rounds</title>
+      <description>Covers Star Catcher&apos;s $65M space power raise, Cerebras Nasdaq IPO debut with valuation surge, Rapido&apos;s $240M round, GovWell and Nectar Social funding, plus Samsung strike plans and Sensata tender offers.</description>
+      <link>{{SITE_URL}}/12</link>
+      <guid isPermaLink="false">s2026e12</guid>
+      <pubDate>Mon, 18 May 2026 00:00:00 GMT</pubDate>
+      <enclosure url="{{SITE_URL}}/s2026e12.mp3" length="17281682" type="audio/mpeg" />
+      <itunes:summary>Covers Star Catcher&apos;s $65M space power raise, Cerebras Nasdaq IPO debut with valuation surge, Rapido&apos;s $240M round, GovWell and Nectar Social funding, plus Samsung strike plans and Sensata tender offers.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>11:59</itunes:duration>
+      <itunes:image href="{{SITE_URL}}/s2026e12.jpg" />
+      <itunes:season>2026</itunes:season>
+      <itunes:episode>12</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <dc:creator>Michael Lugassy</dc:creator>
     </item>
