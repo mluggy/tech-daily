@@ -10,7 +10,7 @@
       <link>{{SITE_URL}}</link>
     </image>
     <generator>coil — https://github.com/mluggy/coil</generator>
-    <lastBuildDate>Mon, 18 May 2026 11:42:44 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 09:44:17 GMT</lastBuildDate>
     <atom:link href="{{SITE_URL}}/rss.xml" rel="self" type="application/rss+xml" />
     <copyright>CC BY 4.0</copyright>
     <language>en</language>
@@ -226,6 +226,22 @@
       <itunes:image href="{{SITE_URL}}/s2026e12.jpg" />
       <itunes:season>2026</itunes:season>
       <itunes:episode>12</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <dc:creator>Michael Lugassy</dc:creator>
+    </item>
+    <item>
+      <title>Rapido $240M Raise, Cisco Cuts, Seagate Pivot</title>
+      <description>This episode covers Rapido&apos;s $240 million funding at $3 billion valuation, Sigma Computing&apos;s $80 million Series E, Cisco&apos;s plan to cut 4,000 jobs, Uber&apos;s $1.8 billion stake increase in Delivery Hero, and other funding rounds, layoffs, acquisitions, and hardware strategy moves.</description>
+      <link>{{SITE_URL}}/13</link>
+      <guid isPermaLink="false">s2026e13</guid>
+      <pubDate>Tue, 19 May 2026 00:00:00 GMT</pubDate>
+      <enclosure url="{{SITE_URL}}/s2026e13.mp3" length="17244655" type="audio/mpeg" />
+      <itunes:summary>This episode covers Rapido&apos;s $240 million funding at $3 billion valuation, Sigma Computing&apos;s $80 million Series E, Cisco&apos;s plan to cut 4,000 jobs, Uber&apos;s $1.8 billion stake increase in Delivery Hero, and other funding rounds, layoffs, acquisitions, and hardware strategy moves.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>11:57</itunes:duration>
+      <itunes:image href="{{SITE_URL}}/s2026e13.jpg" />
+      <itunes:season>2026</itunes:season>
+      <itunes:episode>13</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <dc:creator>Michael Lugassy</dc:creator>
     </item>
