@@ -10,7 +10,7 @@
       <link>{{SITE_URL}}</link>
     </image>
     <generator>coil — https://github.com/mluggy/coil</generator>
-    <lastBuildDate>Tue, 19 May 2026 09:44:17 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 09:43:59 GMT</lastBuildDate>
     <atom:link href="{{SITE_URL}}/rss.xml" rel="self" type="application/rss+xml" />
     <copyright>CC BY 4.0</copyright>
     <language>en</language>
@@ -242,6 +242,22 @@
       <itunes:image href="{{SITE_URL}}/s2026e13.jpg" />
       <itunes:season>2026</itunes:season>
       <itunes:episode>13</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <dc:creator>Michael Lugassy</dc:creator>
+    </item>
+    <item>
+      <title>Google Glasses Launch, Cerebras IPO, Meta Cuts 8K</title>
+      <description>Google partners on audio smart glasses for fall release with Warby Parker and Samsung. Cerebras raises $5.6 billion in the year&apos;s biggest IPO. Meta readies 8,000 layoffs and 7,000 reassignments in May 20 restructuring. Covers startup funding rebounds, robotics deliveries and hardware expansions.</description>
+      <link>{{SITE_URL}}/14</link>
+      <guid isPermaLink="false">s2026e14</guid>
+      <pubDate>Wed, 20 May 2026 00:00:00 GMT</pubDate>
+      <enclosure url="{{SITE_URL}}/s2026e14.mp3" length="15223893" type="audio/mpeg" />
+      <itunes:summary>Google partners on audio smart glasses for fall release with Warby Parker and Samsung. Cerebras raises $5.6 billion in the year&apos;s biggest IPO. Meta readies 8,000 layoffs and 7,000 reassignments in May 20 restructuring. Covers startup funding rebounds, robotics deliveries and hardware expansions.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>10:33</itunes:duration>
+      <itunes:image href="{{SITE_URL}}/s2026e14.jpg" />
+      <itunes:season>2026</itunes:season>
+      <itunes:episode>14</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <dc:creator>Michael Lugassy</dc:creator>
     </item>
