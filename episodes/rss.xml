@@ -10,7 +10,7 @@
       <link>{{SITE_URL}}</link>
     </image>
     <generator>coil — https://github.com/mluggy/coil</generator>
-    <lastBuildDate>Wed, 20 May 2026 19:13:40 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 09:44:15 GMT</lastBuildDate>
     <atom:link href="{{SITE_URL}}/rss.xml" rel="self" type="application/rss+xml" />
     <copyright>CC BY 4.0</copyright>
     <language>en</language>
@@ -258,6 +258,22 @@
       <itunes:image href="{{SITE_URL}}/s2026e14.jpg" />
       <itunes:season>2026</itunes:season>
       <itunes:episode>14</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <dc:creator>Michael Lugassy</dc:creator>
+    </item>
+    <item>
+      <title>Mercury $200M Raise, Intuit 17% Cuts Head Tech News</title>
+      <description>Mercury lands $200M at $5.2B valuation in fintech uptick. Intuit slashes 17% of jobs to streamline. Multiple startups close Series A and C rounds including Viktor at $75M and Primer at $100M.</description>
+      <link>{{SITE_URL}}/15</link>
+      <guid isPermaLink="false">s2026e15</guid>
+      <pubDate>Thu, 21 May 2026 00:00:00 GMT</pubDate>
+      <enclosure url="{{SITE_URL}}/s2026e15.mp3" length="15999565" type="audio/mpeg" />
+      <itunes:summary>Mercury lands $200M at $5.2B valuation in fintech uptick. Intuit slashes 17% of jobs to streamline. Multiple startups close Series A and C rounds including Viktor at $75M and Primer at $100M.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>11:05</itunes:duration>
+      <itunes:image href="{{SITE_URL}}/s2026e15.jpg" />
+      <itunes:season>2026</itunes:season>
+      <itunes:episode>15</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <dc:creator>Michael Lugassy</dc:creator>
     </item>
