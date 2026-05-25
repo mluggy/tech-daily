@@ -10,7 +10,7 @@
       <link>{{SITE_URL}}</link>
     </image>
     <generator>coil — https://github.com/mluggy/coil</generator>
-    <lastBuildDate>Sun, 24 May 2026 21:21:38 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 09:47:11 GMT</lastBuildDate>
     <atom:link href="{{SITE_URL}}/rss.xml" rel="self" type="application/rss+xml" />
     <copyright>CC BY 4.0</copyright>
     <language>en</language>
@@ -290,6 +290,22 @@
       <itunes:image href="{{SITE_URL}}/s2026e16.jpg" />
       <itunes:season>2026</itunes:season>
       <itunes:episode>16</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <dc:creator>Michael Lugassy</dc:creator>
+    </item>
+    <item>
+      <title>Oura IPO, Yamaha Robotics, SolarSquare $60M Talks</title>
+      <description>Covers Oura&apos;s confidential IPO filing for its smart ring, Yamaha Motor&apos;s new robotics support facility in India, SolarSquare&apos;s up to $60M funding talks in solar hardware, Meta&apos;s quiet Forum app launch, Xreal smartglasses progress, and 15 other funding, hardware, gadget, and strategy stories from the period.</description>
+      <link>{{SITE_URL}}/17</link>
+      <guid isPermaLink="false">s2026e17</guid>
+      <pubDate>Mon, 25 May 2026 00:00:00 GMT</pubDate>
+      <enclosure url="{{SITE_URL}}/s2026e17.mp3" length="15870914" type="audio/mpeg" />
+      <itunes:summary>Covers Oura&apos;s confidential IPO filing for its smart ring, Yamaha Motor&apos;s new robotics support facility in India, SolarSquare&apos;s up to $60M funding talks in solar hardware, Meta&apos;s quiet Forum app launch, Xreal smartglasses progress, and 15 other funding, hardware, gadget, and strategy stories from the period.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>11:00</itunes:duration>
+      <itunes:image href="{{SITE_URL}}/s2026e17.jpg" />
+      <itunes:season>2026</itunes:season>
+      <itunes:episode>17</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <dc:creator>Michael Lugassy</dc:creator>
     </item>
