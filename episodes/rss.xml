@@ -10,7 +10,7 @@
       <link>{{SITE_URL}}</link>
     </image>
     <generator>coil — https://github.com/mluggy/coil</generator>
-    <lastBuildDate>Mon, 25 May 2026 09:47:11 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 09:44:44 GMT</lastBuildDate>
     <atom:link href="{{SITE_URL}}/rss.xml" rel="self" type="application/rss+xml" />
     <copyright>CC BY 4.0</copyright>
     <language>en</language>
@@ -306,6 +306,22 @@
       <itunes:image href="{{SITE_URL}}/s2026e17.jpg" />
       <itunes:season>2026</itunes:season>
       <itunes:episode>17</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <dc:creator>Michael Lugassy</dc:creator>
+    </item>
+    <item>
+      <title>ClickUp Cuts, Huawei Chip Law, Funding Wave</title>
+      <description>ClickUp lays off 22% of its workforce; Huawei unveils Tau Scaling Law targeting 1.4nm-equivalent chips by 2031; Amca raises $300M for aerospace parts and Boston Metal secures $75M for metals production among major funding rounds totaling over $2B.</description>
+      <link>{{SITE_URL}}/18</link>
+      <guid isPermaLink="false">s2026e18</guid>
+      <pubDate>Tue, 26 May 2026 00:00:00 GMT</pubDate>
+      <enclosure url="{{SITE_URL}}/s2026e18.mp3" length="17534591" type="audio/mpeg" />
+      <itunes:summary>ClickUp lays off 22% of its workforce; Huawei unveils Tau Scaling Law targeting 1.4nm-equivalent chips by 2031; Amca raises $300M for aerospace parts and Boston Metal secures $75M for metals production among major funding rounds totaling over $2B.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>12:09</itunes:duration>
+      <itunes:image href="{{SITE_URL}}/s2026e18.jpg" />
+      <itunes:season>2026</itunes:season>
+      <itunes:episode>18</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <dc:creator>Michael Lugassy</dc:creator>
     </item>
