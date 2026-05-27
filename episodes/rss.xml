@@ -10,7 +10,7 @@
       <link>{{SITE_URL}}</link>
     </image>
     <generator>coil — https://github.com/mluggy/coil</generator>
-    <lastBuildDate>Tue, 26 May 2026 09:44:44 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 09:43:45 GMT</lastBuildDate>
     <atom:link href="{{SITE_URL}}/rss.xml" rel="self" type="application/rss+xml" />
     <copyright>CC BY 4.0</copyright>
     <language>en</language>
@@ -322,6 +322,22 @@
       <itunes:image href="{{SITE_URL}}/s2026e18.jpg" />
       <itunes:season>2026</itunes:season>
       <itunes:episode>18</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <dc:creator>Michael Lugassy</dc:creator>
+    </item>
+    <item>
+      <title>Micron Trillion Cap, SPAC Closings, Philips Launch</title>
+      <description>Micron hits $1 trillion market cap amid chip rally; FortuneX and Burtech close SPAC IPOs; Hadron Energy de-SPACs; Valve ships Steam Deck beta update; Philips launches SmartIQ imaging tech; Oregon colleges secure semiconductor grants.</description>
+      <link>{{SITE_URL}}/19</link>
+      <guid isPermaLink="false">s2026e19</guid>
+      <pubDate>Wed, 27 May 2026 00:00:00 GMT</pubDate>
+      <enclosure url="{{SITE_URL}}/s2026e19.mp3" length="16705576" type="audio/mpeg" />
+      <itunes:summary>Micron hits $1 trillion market cap amid chip rally; FortuneX and Burtech close SPAC IPOs; Hadron Energy de-SPACs; Valve ships Steam Deck beta update; Philips launches SmartIQ imaging tech; Oregon colleges secure semiconductor grants.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>11:35</itunes:duration>
+      <itunes:image href="{{SITE_URL}}/s2026e19.jpg" />
+      <itunes:season>2026</itunes:season>
+      <itunes:episode>19</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <dc:creator>Michael Lugassy</dc:creator>
     </item>
