@@ -10,7 +10,7 @@
       <link>{{SITE_URL}}</link>
     </image>
     <generator>coil — https://github.com/mluggy/coil</generator>
-    <lastBuildDate>Wed, 27 May 2026 09:43:45 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 09:45:55 GMT</lastBuildDate>
     <atom:link href="{{SITE_URL}}/rss.xml" rel="self" type="application/rss+xml" />
     <copyright>CC BY 4.0</copyright>
     <language>en</language>
@@ -338,6 +338,22 @@
       <itunes:image href="{{SITE_URL}}/s2026e19.jpg" />
       <itunes:season>2026</itunes:season>
       <itunes:episode>19</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <dc:creator>Michael Lugassy</dc:creator>
+    </item>
+    <item>
+      <title>Stord $250M, Thea $100M, Chip Trillions</title>
+      <description>Covers Stord&apos;s $250M Series F at $3B valuation for logistics tech, Thea Energy&apos;s $100M Series B to expand magnet manufacturing for fusion plants, ClearNote Health&apos;s $52M Series D for cancer detection products, Lilly&apos;s $780M LimmaTech acquisition, and Micron and SK Hynix hitting $1T market caps.</description>
+      <link>{{SITE_URL}}/20</link>
+      <guid isPermaLink="false">s2026e20</guid>
+      <pubDate>Thu, 28 May 2026 00:00:00 GMT</pubDate>
+      <enclosure url="{{SITE_URL}}/s2026e20.mp3" length="17322474" type="audio/mpeg" />
+      <itunes:summary>Covers Stord&apos;s $250M Series F at $3B valuation for logistics tech, Thea Energy&apos;s $100M Series B to expand magnet manufacturing for fusion plants, ClearNote Health&apos;s $52M Series D for cancer detection products, Lilly&apos;s $780M LimmaTech acquisition, and Micron and SK Hynix hitting $1T market caps.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>12:00</itunes:duration>
+      <itunes:image href="{{SITE_URL}}/s2026e20.jpg" />
+      <itunes:season>2026</itunes:season>
+      <itunes:episode>20</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <dc:creator>Michael Lugassy</dc:creator>
     </item>
