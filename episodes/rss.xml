@@ -10,7 +10,7 @@
       <link>{{SITE_URL}}</link>
     </image>
     <generator>coil — https://github.com/mluggy/coil</generator>
-    <lastBuildDate>Thu, 28 May 2026 09:45:55 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 May 2026 09:45:42 GMT</lastBuildDate>
     <atom:link href="{{SITE_URL}}/rss.xml" rel="self" type="application/rss+xml" />
     <copyright>CC BY 4.0</copyright>
     <language>en</language>
@@ -354,6 +354,22 @@
       <itunes:image href="{{SITE_URL}}/s2026e20.jpg" />
       <itunes:season>2026</itunes:season>
       <itunes:episode>20</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <dc:creator>Michael Lugassy</dc:creator>
+    </item>
+    <item>
+      <title>MiRus $1.5B Raise, Wix and Groupon Cuts</title>
+      <description>MiRus lands $1.5B from Boston Scientific for medical devices. Wix cuts 1,000 jobs or 20% of staff. Groupon trims 400 positions or 23% workforce. Plus FDA clearances, manufacturing orders and other hardware and restructuring moves.</description>
+      <link>{{SITE_URL}}/21</link>
+      <guid isPermaLink="false">s2026e21</guid>
+      <pubDate>Fri, 29 May 2026 00:00:00 GMT</pubDate>
+      <enclosure url="{{SITE_URL}}/s2026e21.mp3" length="17473089" type="audio/mpeg" />
+      <itunes:summary>MiRus lands $1.5B from Boston Scientific for medical devices. Wix cuts 1,000 jobs or 20% of staff. Groupon trims 400 positions or 23% workforce. Plus FDA clearances, manufacturing orders and other hardware and restructuring moves.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>12:07</itunes:duration>
+      <itunes:image href="{{SITE_URL}}/s2026e21.jpg" />
+      <itunes:season>2026</itunes:season>
+      <itunes:episode>21</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <dc:creator>Michael Lugassy</dc:creator>
     </item>
