@@ -10,7 +10,7 @@
       <link>{{SITE_URL}}</link>
     </image>
     <generator>coil — https://github.com/mluggy/coil</generator>
-    <lastBuildDate>Fri, 29 May 2026 09:45:42 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2026 10:16:14 GMT</lastBuildDate>
     <atom:link href="{{SITE_URL}}/rss.xml" rel="self" type="application/rss+xml" />
     <copyright>CC BY 4.0</copyright>
     <language>en</language>
@@ -370,6 +370,22 @@
       <itunes:image href="{{SITE_URL}}/s2026e21.jpg" />
       <itunes:season>2026</itunes:season>
       <itunes:episode>21</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <dc:creator>Michael Lugassy</dc:creator>
+    </item>
+    <item>
+      <title>Dell XPS 13 Launch, Acer Ultrabooks, Qualcomm Chips</title>
+      <description>Covers Dell&apos;s $699 XPS 13 and Acer&apos;s $699 Swift Air 14 launches, Qualcomm Snapdragon C chip announcement, Picogrid&apos;s $45M round, SoftBank&apos;s €75B French data centers, and other hardware and funding news from May 29-31.</description>
+      <link>{{SITE_URL}}/22</link>
+      <guid isPermaLink="false">s2026e22</guid>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
+      <enclosure url="{{SITE_URL}}/s2026e22.mp3" length="17116632" type="audio/mpeg" />
+      <itunes:summary>Covers Dell&apos;s $699 XPS 13 and Acer&apos;s $699 Swift Air 14 launches, Qualcomm Snapdragon C chip announcement, Picogrid&apos;s $45M round, SoftBank&apos;s €75B French data centers, and other hardware and funding news from May 29-31.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>11:52</itunes:duration>
+      <itunes:image href="{{SITE_URL}}/s2026e22.jpg" />
+      <itunes:season>2026</itunes:season>
+      <itunes:episode>22</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <dc:creator>Michael Lugassy</dc:creator>
     </item>
