@@ -10,7 +10,7 @@
       <link>{{SITE_URL}}</link>
     </image>
     <generator>coil — https://github.com/mluggy/coil</generator>
-    <lastBuildDate>Mon, 01 Jun 2026 10:16:14 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2026 09:56:49 GMT</lastBuildDate>
     <atom:link href="{{SITE_URL}}/rss.xml" rel="self" type="application/rss+xml" />
     <copyright>CC BY 4.0</copyright>
     <language>en</language>
@@ -386,6 +386,22 @@
       <itunes:image href="{{SITE_URL}}/s2026e22.jpg" />
       <itunes:season>2026</itunes:season>
       <itunes:episode>22</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <dc:creator>Michael Lugassy</dc:creator>
+    </item>
+    <item>
+      <title>Mach $1.8B Valuation, Unastella Rocket Raise and More</title>
+      <description>Mach Industries hits $1.8B valuation with $300M round; Unastella closes $24M Series B for rockets; Maxwell Power secures $750M for batteries plus other funding, M&amp;A and hardware moves.</description>
+      <link>{{SITE_URL}}/23</link>
+      <guid isPermaLink="false">s2026e23</guid>
+      <pubDate>Tue, 02 Jun 2026 00:00:00 GMT</pubDate>
+      <enclosure url="{{SITE_URL}}/s2026e23.mp3" length="17043834" type="audio/mpeg" />
+      <itunes:summary>Mach Industries hits $1.8B valuation with $300M round; Unastella closes $24M Series B for rockets; Maxwell Power secures $750M for batteries plus other funding, M&amp;A and hardware moves.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>11:49</itunes:duration>
+      <itunes:image href="{{SITE_URL}}/s2026e23.jpg" />
+      <itunes:season>2026</itunes:season>
+      <itunes:episode>23</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <dc:creator>Michael Lugassy</dc:creator>
     </item>

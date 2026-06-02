@@ -3,10 +3,10 @@ episodes:
     size: 10789514
     season: 2026
     title: Apple Records, PC Growth, and Cyber Breaches Surge
-    description: Apple achieves record sales during Tim Cook's CEO transition 
-      amid chip shortage concerns; global PC shipments grow 4% led by Apple 
-      hardware; Instructure's Canvas platform hit by major data breach affecting
-      thousands of schools along with other cybersecurity incidents.
+    description: Apple achieves record sales during Tim Cook's CEO transition amid
+      chip shortage concerns; global PC shipments grow 4% led by Apple hardware; Instructure's
+      Canvas platform hit by major data breach affecting thousands of schools along
+      with other cybersecurity incidents.
     date: '2026-04-30'
     cost: 1.6786
     duration: 07:29
@@ -14,11 +14,11 @@ episodes:
     size: 11292822
     season: 2026
     title: Ubuntu DDoS, Canvas Breach, and Meta's New Mexico Threat
-    description: This episode covers a major DDoS attack disrupting Ubuntu and 
-      Canonical services, a widespread breach of the Canvas learning management 
-      system exposing student data, and Meta threatening to withdraw its 
-      platforms from New Mexico over child safety demands. It also includes 
-      critical Linux vulnerabilities and big tech infrastructure updates.
+    description: This episode covers a major DDoS attack disrupting Ubuntu and Canonical
+      services, a widespread breach of the Canvas learning management system exposing
+      student data, and Meta threatening to withdraw its platforms from New Mexico
+      over child safety demands. It also includes critical Linux vulnerabilities and
+      big tech infrastructure updates.
     date: '2026-05-01'
     cost: 1.8301
     duration: 07:49
@@ -26,11 +26,10 @@ episodes:
     size: 11801150
     season: 2026
     title: AMD Growth, Samsung China Exit, Xbox UI Update
-    description: AMD posted strong Q1 results with surging data center revenue. 
-      Samsung is withdrawing from the Chinese consumer electronics market. 
-      Microsoft previewed a unified Xbox interface. Cybersecurity saw new 
-      ransomware claims and Qualcomm patches. New gadgets from Minisforum and 
-      ZOTAC also debuted.
+    description: AMD posted strong Q1 results with surging data center revenue. Samsung
+      is withdrawing from the Chinese consumer electronics market. Microsoft previewed
+      a unified Xbox interface. Cybersecurity saw new ransomware claims and Qualcomm
+      patches. New gadgets from Minisforum and ZOTAC also debuted.
     date: '2026-05-04'
     cost: 2.149
     duration: 08:11
@@ -38,10 +37,10 @@ episodes:
     size: 11625432
     season: 2026
     title: Intel-Apple Chip Deal, reMarkable Tablet, and Ransomware Record
-    description: This episode covers Intel securing a major custom chip supply 
-      deal with Apple, reMarkable's launch of the Paper Pure e-ink tablet, and 
-      the ADT home security data breach exposing 5.5 million records, alongside 
-      hardware releases, software updates, and other cybersecurity developments.
+    description: This episode covers Intel securing a major custom chip supply deal
+      with Apple, reMarkable's launch of the Paper Pure e-ink tablet, and the ADT
+      home security data breach exposing 5.5 million records, alongside hardware releases,
+      software updates, and other cybersecurity developments.
     date: '2026-05-05'
     cost: 1.3821
     duration: 08:03
@@ -49,10 +48,10 @@ episodes:
     size: 10759391
     season: 2026
     title: Linux Flaws, cPanel Hacks, and Supply Chain Threats
-    description: This episode details the CopyFail Linux kernel vulnerability, 
-      active exploitation of cPanel flaws compromising websites, and a Daemon 
-      Tools supply chain backdoor attack. It also covers North Korean gaming 
-      platform malware and healthcare data sharing pauses.
+    description: This episode details the CopyFail Linux kernel vulnerability, active
+      exploitation of cPanel flaws compromising websites, and a Daemon Tools supply
+      chain backdoor attack. It also covers North Korean gaming platform malware and
+      healthcare data sharing pauses.
     date: '2026-05-06'
     cost: 1.3805
     duration: 07:27
@@ -60,11 +59,10 @@ episodes:
     size: 18991798
     season: 2026
     title: HawkEye IPO, Samsung China Exit, Layoffs Hit Tech Giants
-    description: Covers HawkEye 360's $416 million IPO at $2.4 billion 
-      valuation, Samsung's full exit from China TV and home appliance sales, 
-      Cloudflare's 1,100-job cut, Upwork and BILL restructurings, Google's 
-      Fitbit Air launch, Arm's smartphone warning, and gaming releases plus 
-      robotics and funding moves on May 7.
+    description: Covers HawkEye 360's $416 million IPO at $2.4 billion valuation,
+      Samsung's full exit from China TV and home appliance sales, Cloudflare's 1,100-job
+      cut, Upwork and BILL restructurings, Google's Fitbit Air launch, Arm's smartphone
+      warning, and gaming releases plus robotics and funding moves on May 7.
     date: '2026-05-07'
     cost: 2.5073
     duration: '13:10'
@@ -72,10 +70,10 @@ episodes:
     size: 17601113
     season: 2026
     title: Ramp $40B Raise, Rocket Lab M&A, Xbox UI Tease
-    description: Ramp eyes over $40 billion valuation in new funding round, 
-      Rocket Lab acquires space robotics firm Motiv, Truecaller cuts 70 jobs, 
-      Microsoft teases Xbox dashboard overhaul, Valve delays Steam Machine due 
-      to RAM shortages, and Game Pass adds major titles.
+    description: Ramp eyes over $40 billion valuation in new funding round, Rocket
+      Lab acquires space robotics firm Motiv, Truecaller cuts 70 jobs, Microsoft teases
+      Xbox dashboard overhaul, Valve delays Steam Machine due to RAM shortages, and
+      Game Pass adds major titles.
     date: '2026-05-11'
     cost: 2.3681
     duration: '12:12'
@@ -83,11 +81,10 @@ episodes:
     size: 18315910
     season: 2026
     title: Starbucks Cuts, Amazon Logistics Push, Battery Funding Surge
-    description: Starbucks cuts 61 tech jobs in Seattle, Moment Energy raises 
-      $40M for EV battery gigafactory, Amazon launches Supply Chain Services to 
-      compete with UPS and FedEx, Avalanche Energy wins DOD nuclear battery 
-      award, plus funding rounds, hardware shipments, gaming leadership changes 
-      and IPO updates.
+    description: Starbucks cuts 61 tech jobs in Seattle, Moment Energy raises $40M
+      for EV battery gigafactory, Amazon launches Supply Chain Services to compete
+      with UPS and FedEx, Avalanche Energy wins DOD nuclear battery award, plus funding
+      rounds, hardware shipments, gaming leadership changes and IPO updates.
     date: '2026-05-12'
     cost: 2.2127
     duration: '12:42'
@@ -95,10 +92,10 @@ episodes:
     size: 19427956
     season: 2026
     title: Lime IPO Filing, Havoc $100M Raise, Samsung $1T Chip Rally
-    description: Lime files for IPO amid $1B liabilities and revenue surge. 
-      Havoc lands $100M for autonomous vessels. QuantWare closes $178M quantum 
-      chip round. Samsung hits $1T valuation on memory demand. Major game 
-      launches and Sony PS6 confirmation highlight the day.
+    description: Lime files for IPO amid $1B liabilities and revenue surge. Havoc
+      lands $100M for autonomous vessels. QuantWare closes $178M quantum chip round.
+      Samsung hits $1T valuation on memory demand. Major game launches and Sony PS6
+      confirmation highlight the day.
     date: '2026-05-13'
     cost: 2.1383
     duration: '13:28'
@@ -106,10 +103,10 @@ episodes:
     size: 18144585
     season: 2026
     title: Anduril $5B Raise, Fervo IPO Pop, Robotics Boost
-    description: Anduril closed a $5 billion round at a $61 billion valuation. 
-      Fervo Energy raised $1.89 billion in its IPO and popped 33 percent on 
-      debut. Mind Robotics secured another $400 million, alongside Cisco's 4,000
-      job cuts and Blackstone's $2 billion infrastructure IPO.
+    description: Anduril closed a $5 billion round at a $61 billion valuation. Fervo
+      Energy raised $1.89 billion in its IPO and popped 33 percent on debut. Mind
+      Robotics secured another $400 million, alongside Cisco's 4,000 job cuts and
+      Blackstone's $2 billion infrastructure IPO.
     date: '2026-05-14'
     cost: 2.1466
     duration: '12:35'
@@ -117,10 +114,10 @@ episodes:
     size: 18790977
     season: 2026
     title: Layoffs Hit Tech as Big Funding and Hardware Moves Emerge
-    description: This episode covers major workforce reductions at Takeda and 
-      LinkedIn, Oishii's $150 million Series C for vertical farming scale-up, 
-      UMC's 14nm chip technology launch, IQM's Nasdaq listing filing, and 
-      robotics hardware deployments plus IPO activity.
+    description: This episode covers major workforce reductions at Takeda and LinkedIn,
+      Oishii's $150 million Series C for vertical farming scale-up, UMC's 14nm chip
+      technology launch, IQM's Nasdaq listing filing, and robotics hardware deployments
+      plus IPO activity.
     date: '2026-05-15'
     cost: 1.6204
     duration: '13:02'
@@ -128,9 +125,9 @@ episodes:
     size: 17281682
     season: 2026
     title: Space Power Grids, IPO Pops, Startup Rounds
-    description: Covers Star Catcher's $65M space power raise, Cerebras Nasdaq 
-      IPO debut with valuation surge, Rapido's $240M round, GovWell and Nectar 
-      Social funding, plus Samsung strike plans and Sensata tender offers.
+    description: Covers Star Catcher's $65M space power raise, Cerebras Nasdaq IPO
+      debut with valuation surge, Rapido's $240M round, GovWell and Nectar Social
+      funding, plus Samsung strike plans and Sensata tender offers.
     date: '2026-05-18'
     cost: 2.0968
     duration: '11:59'
@@ -138,10 +135,10 @@ episodes:
     size: 17244655
     season: 2026
     title: Rapido $240M Raise, Cisco Cuts, Seagate Pivot
-    description: This episode covers Rapido's $240 million funding at $3 billion
-      valuation, Sigma Computing's $80 million Series E, Cisco's plan to cut 
-      4,000 jobs, Uber's $1.8 billion stake increase in Delivery Hero, and other
-      funding rounds, layoffs, acquisitions, and hardware strategy moves.
+    description: This episode covers Rapido's $240 million funding at $3 billion valuation,
+      Sigma Computing's $80 million Series E, Cisco's plan to cut 4,000 jobs, Uber's
+      $1.8 billion stake increase in Delivery Hero, and other funding rounds, layoffs,
+      acquisitions, and hardware strategy moves.
     date: '2026-05-19'
     cost: 2.4863
     duration: '11:57'
@@ -149,11 +146,10 @@ episodes:
     size: 15223893
     season: 2026
     title: Google Glasses Launch, Cerebras IPO, Meta Cuts 8K
-    description: Google partners on audio smart glasses for fall release with 
-      Warby Parker and Samsung. Cerebras raises $5.6 billion in the year's 
-      biggest IPO. Meta readies 8,000 layoffs and 7,000 reassignments in May 20 
-      restructuring. Covers startup funding rebounds, robotics deliveries and 
-      hardware expansions.
+    description: Google partners on audio smart glasses for fall release with Warby
+      Parker and Samsung. Cerebras raises $5.6 billion in the year's biggest IPO.
+      Meta readies 8,000 layoffs and 7,000 reassignments in May 20 restructuring.
+      Covers startup funding rebounds, robotics deliveries and hardware expansions.
     date: '2026-05-20'
     cost: 2.5502
     duration: '10:33'
@@ -161,9 +157,9 @@ episodes:
     size: 15999565
     season: 2026
     title: Mercury $200M Raise, Intuit 17% Cuts Head Tech News
-    description: Mercury lands $200M at $5.2B valuation in fintech uptick. 
-      Intuit slashes 17% of jobs to streamline. Multiple startups close Series A
-      and C rounds including Viktor at $75M and Primer at $100M.
+    description: Mercury lands $200M at $5.2B valuation in fintech uptick. Intuit
+      slashes 17% of jobs to streamline. Multiple startups close Series A and C rounds
+      including Viktor at $75M and Primer at $100M.
     date: '2026-05-21'
     cost: 2.0367
     duration: '11:05'
@@ -171,10 +167,10 @@ episodes:
     size: 16275066
     season: 2026
     title: CHIPS Billions, SPAC Surge, LiDAR Wins Top Tech
-    description: Covers Commerce's $2B quantum hardware incentives, three SPAC 
-      IPOs raising $325M, Hesai's European LiDAR deals, UCLA's $125M 
-      semiconductor hub, Bloom Energy surge, multiple startup rounds including 
-      Pivot and Socket, China robotics push, and other hardware and M&A moves.
+    description: Covers Commerce's $2B quantum hardware incentives, three SPAC IPOs
+      raising $325M, Hesai's European LiDAR deals, UCLA's $125M semiconductor hub,
+      Bloom Energy surge, multiple startup rounds including Pivot and Socket, China
+      robotics push, and other hardware and M&A moves.
     date: '2026-05-22'
     cost: 1.8931
     duration: '11:17'
@@ -182,11 +178,10 @@ episodes:
     size: 15870914
     season: 2026
     title: Oura IPO, Yamaha Robotics, SolarSquare $60M Talks
-    description: Covers Oura's confidential IPO filing for its smart ring, 
-      Yamaha Motor's new robotics support facility in India, SolarSquare's up to
-      $60M funding talks in solar hardware, Meta's quiet Forum app launch, Xreal
-      smartglasses progress, and 15 other funding, hardware, gadget, and 
-      strategy stories from the period.
+    description: Covers Oura's confidential IPO filing for its smart ring, Yamaha
+      Motor's new robotics support facility in India, SolarSquare's up to $60M funding
+      talks in solar hardware, Meta's quiet Forum app launch, Xreal smartglasses progress,
+      and 15 other funding, hardware, gadget, and strategy stories from the period.
     date: '2026-05-25'
     cost: 2.2507
     duration: '11:00'
@@ -194,10 +189,10 @@ episodes:
     size: 17534591
     season: 2026
     title: ClickUp Cuts, Huawei Chip Law, Funding Wave
-    description: ClickUp lays off 22% of its workforce; Huawei unveils Tau 
-      Scaling Law targeting 1.4nm-equivalent chips by 2031; Amca raises $300M 
-      for aerospace parts and Boston Metal secures $75M for metals production 
-      among major funding rounds totaling over $2B.
+    description: ClickUp lays off 22% of its workforce; Huawei unveils Tau Scaling
+      Law targeting 1.4nm-equivalent chips by 2031; Amca raises $300M for aerospace
+      parts and Boston Metal secures $75M for metals production among major funding
+      rounds totaling over $2B.
     date: '2026-05-26'
     cost: 2.0423
     duration: '12:09'
@@ -205,10 +200,10 @@ episodes:
     size: 16705576
     season: 2026
     title: Micron Trillion Cap, SPAC Closings, Philips Launch
-    description: Micron hits $1 trillion market cap amid chip rally; FortuneX 
-      and Burtech close SPAC IPOs; Hadron Energy de-SPACs; Valve ships Steam 
-      Deck beta update; Philips launches SmartIQ imaging tech; Oregon colleges 
-      secure semiconductor grants.
+    description: Micron hits $1 trillion market cap amid chip rally; FortuneX and
+      Burtech close SPAC IPOs; Hadron Energy de-SPACs; Valve ships Steam Deck beta
+      update; Philips launches SmartIQ imaging tech; Oregon colleges secure semiconductor
+      grants.
     date: '2026-05-27'
     cost: 1.9546
     duration: '11:35'
@@ -216,11 +211,10 @@ episodes:
     size: 17322474
     season: 2026
     title: Stord $250M, Thea $100M, Chip Trillions
-    description: Covers Stord's $250M Series F at $3B valuation for logistics 
-      tech, Thea Energy's $100M Series B to expand magnet manufacturing for 
-      fusion plants, ClearNote Health's $52M Series D for cancer detection 
-      products, Lilly's $780M LimmaTech acquisition, and Micron and SK Hynix 
-      hitting $1T market caps.
+    description: Covers Stord's $250M Series F at $3B valuation for logistics tech,
+      Thea Energy's $100M Series B to expand magnet manufacturing for fusion plants,
+      ClearNote Health's $52M Series D for cancer detection products, Lilly's $780M
+      LimmaTech acquisition, and Micron and SK Hynix hitting $1T market caps.
     date: '2026-05-28'
     cost: 2.0815
     duration: '12:00'
@@ -228,10 +222,10 @@ episodes:
     size: 17473089
     season: 2026
     title: MiRus $1.5B Raise, Wix and Groupon Cuts
-    description: MiRus lands $1.5B from Boston Scientific for medical devices. 
-      Wix cuts 1,000 jobs or 20% of staff. Groupon trims 400 positions or 23% 
-      workforce. Plus FDA clearances, manufacturing orders and other hardware 
-      and restructuring moves.
+    description: MiRus lands $1.5B from Boston Scientific for medical devices. Wix
+      cuts 1,000 jobs or 20% of staff. Groupon trims 400 positions or 23% workforce.
+      Plus FDA clearances, manufacturing orders and other hardware and restructuring
+      moves.
     date: '2026-05-29'
     cost: 1.9747
     duration: '12:07'
@@ -239,18 +233,19 @@ episodes:
     size: 17116632
     season: 2026
     title: Dell XPS 13 Launch, Acer Ultrabooks, Qualcomm Chips
-    description: Covers Dell's $699 XPS 13 and Acer's $699 Swift Air 14 
-      launches, Qualcomm Snapdragon C chip announcement, Picogrid's $45M round, 
-      SoftBank's €75B French data centers, and other hardware and funding news 
-      from May 29-31.
+    description: Covers Dell's $699 XPS 13 and Acer's $699 Swift Air 14 launches,
+      Qualcomm Snapdragon C chip announcement, Picogrid's $45M round, SoftBank's €75B
+      French data centers, and other hardware and funding news from May 29-31.
     date: '2026-06-01'
     cost: 2.26
     duration: '11:52'
   23:
+    size: 17043834
     season: 2026
     title: Mach $1.8B Valuation, Unastella Rocket Raise and More
-    description: Mach Industries hits $1.8B valuation with $300M round; 
-      Unastella closes $24M Series B for rockets; Maxwell Power secures $750M 
-      for batteries plus other funding, M&A and hardware moves.
+    description: Mach Industries hits $1.8B valuation with $300M round; Unastella
+      closes $24M Series B for rockets; Maxwell Power secures $750M for batteries
+      plus other funding, M&A and hardware moves.
     date: '2026-06-02'
     cost: 2.3774
+    duration: '11:49'
