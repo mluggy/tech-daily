@@ -10,7 +10,7 @@
       <link>{{SITE_URL}}</link>
     </image>
     <generator>coil — https://github.com/mluggy/coil</generator>
-    <lastBuildDate>Tue, 02 Jun 2026 21:01:44 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2026 10:09:10 GMT</lastBuildDate>
     <atom:link href="{{SITE_URL}}/rss.xml" rel="self" type="application/rss+xml" />
     <copyright>CC BY 4.0</copyright>
     <language>en</language>
@@ -402,6 +402,22 @@
       <itunes:image href="{{SITE_URL}}/s2026e23.jpg" />
       <itunes:season>2026</itunes:season>
       <itunes:episode>23</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <dc:creator>Michael Lugassy</dc:creator>
+    </item>
+    <item>
+      <title>Apple Bill Split, xLight Laser Cash, Meta Teen Shields</title>
+      <description>Apple readies iOS 27 receipt-photo bill splitter; xLight lands $150M CHIPS for EUV laser prototype; Scapia closes $63M round; NewLimit raises $435M Series C; Meta expands global teen safety settings; Taiwan demos robot patrol dogs; Endorfy previews PC hardware; Valve delays Steam Machine over RAM issues.</description>
+      <link>{{SITE_URL}}/24</link>
+      <guid isPermaLink="false">s2026e24</guid>
+      <pubDate>Wed, 03 Jun 2026 00:00:00 GMT</pubDate>
+      <enclosure url="{{SITE_URL}}/s2026e24.mp3" length="16672315" type="audio/mpeg" />
+      <itunes:summary>Apple readies iOS 27 receipt-photo bill splitter; xLight lands $150M CHIPS for EUV laser prototype; Scapia closes $63M round; NewLimit raises $435M Series C; Meta expands global teen safety settings; Taiwan demos robot patrol dogs; Endorfy previews PC hardware; Valve delays Steam Machine over RAM issues.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>11:33</itunes:duration>
+      <itunes:image href="{{SITE_URL}}/s2026e24.jpg" />
+      <itunes:season>2026</itunes:season>
+      <itunes:episode>24</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <dc:creator>Michael Lugassy</dc:creator>
     </item>
