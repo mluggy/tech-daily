@@ -10,7 +10,7 @@
       <link>{{SITE_URL}}</link>
     </image>
     <generator>coil — https://github.com/mluggy/coil</generator>
-    <lastBuildDate>Thu, 04 Jun 2026 09:45:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 09:44:13 GMT</lastBuildDate>
     <atom:link href="{{SITE_URL}}/rss.xml" rel="self" type="application/rss+xml" />
     <copyright>CC BY 4.0</copyright>
     <language>en</language>
@@ -434,6 +434,22 @@
       <itunes:image href="{{SITE_URL}}/s2026e25.jpg" />
       <itunes:season>2026</itunes:season>
       <itunes:episode>25</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <dc:creator>Michael Lugassy</dc:creator>
+    </item>
+    <item>
+      <title>Ramp $750M Raise, Rare Earth $1.6B Deal, Hardware Launches</title>
+      <description>Ramp hits $44B valuation with $750M round; USA Rare Earth secures up to $1.6B CHIPS funding for supply chain; tech layoffs hit 38k in May; COMPUTEX brings AMD, Intel, Qualcomm hardware announcements.</description>
+      <link>{{SITE_URL}}/26</link>
+      <guid isPermaLink="false">s2026e26</guid>
+      <pubDate>Fri, 05 Jun 2026 00:00:00 GMT</pubDate>
+      <enclosure url="{{SITE_URL}}/s2026e26.mp3" length="17813858" type="audio/mpeg" />
+      <itunes:summary>Ramp hits $44B valuation with $750M round; USA Rare Earth secures up to $1.6B CHIPS funding for supply chain; tech layoffs hit 38k in May; COMPUTEX brings AMD, Intel, Qualcomm hardware announcements.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>12:21</itunes:duration>
+      <itunes:image href="{{SITE_URL}}/s2026e26.jpg" />
+      <itunes:season>2026</itunes:season>
+      <itunes:episode>26</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <dc:creator>Michael Lugassy</dc:creator>
     </item>
