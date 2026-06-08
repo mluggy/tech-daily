@@ -10,7 +10,7 @@
       <link>{{SITE_URL}}</link>
     </image>
     <generator>coil — https://github.com/mluggy/coil</generator>
-    <lastBuildDate>Fri, 05 Jun 2026 09:44:13 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jun 2026 10:03:45 GMT</lastBuildDate>
     <atom:link href="{{SITE_URL}}/rss.xml" rel="self" type="application/rss+xml" />
     <copyright>CC BY 4.0</copyright>
     <language>en</language>
@@ -450,6 +450,22 @@
       <itunes:image href="{{SITE_URL}}/s2026e26.jpg" />
       <itunes:season>2026</itunes:season>
       <itunes:episode>26</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <dc:creator>Michael Lugassy</dc:creator>
+    </item>
+    <item>
+      <title>Apex $2.3B Valuation, GM Battery Bet, Supabase $500M Round</title>
+      <description>Covers Apex satellite funding doubling to $2.3B valuation, GM&apos;s $900M EV battery push, Supabase $500M raise at $10.5B valuation, Volund manufacturing seed, Helion fusion round, chip stock selloff, and other funding, hardware, and strategy moves from the period.</description>
+      <link>{{SITE_URL}}/27</link>
+      <guid isPermaLink="false">s2026e27</guid>
+      <pubDate>Mon, 08 Jun 2026 00:00:00 GMT</pubDate>
+      <enclosure url="{{SITE_URL}}/s2026e27.mp3" length="10888669" type="audio/mpeg" />
+      <itunes:summary>Covers Apex satellite funding doubling to $2.3B valuation, GM&apos;s $900M EV battery push, Supabase $500M raise at $10.5B valuation, Volund manufacturing seed, Helion fusion round, chip stock selloff, and other funding, hardware, and strategy moves from the period.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>07:33</itunes:duration>
+      <itunes:image href="{{SITE_URL}}/s2026e27.jpg" />
+      <itunes:season>2026</itunes:season>
+      <itunes:episode>27</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <dc:creator>Michael Lugassy</dc:creator>
     </item>
