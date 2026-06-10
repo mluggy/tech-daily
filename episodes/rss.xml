@@ -10,7 +10,7 @@
       <link>{{SITE_URL}}</link>
     </image>
     <generator>coil — https://github.com/mluggy/coil</generator>
-    <lastBuildDate>Mon, 08 Jun 2026 10:03:45 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 09:46:05 GMT</lastBuildDate>
     <atom:link href="{{SITE_URL}}/rss.xml" rel="self" type="application/rss+xml" />
     <copyright>CC BY 4.0</copyright>
     <language>en</language>
@@ -466,6 +466,38 @@
       <itunes:image href="{{SITE_URL}}/s2026e27.jpg" />
       <itunes:season>2026</itunes:season>
       <itunes:episode>27</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <dc:creator>Michael Lugassy</dc:creator>
+    </item>
+    <item>
+      <title>Iceye $12B Val, NewOrbit Raise, CHIPS Expansions</title>
+      <description>Iceye hits €10B+ valuation with major funding; NewOrbit secures $18.5M for VLEO satellites; Powerex gets $30M CHIPS for semiconductor manufacturing; plus small seed rounds, Google Cloud restructuring, and Apple software updates.</description>
+      <link>{{SITE_URL}}/28</link>
+      <guid isPermaLink="false">s2026e28</guid>
+      <pubDate>Tue, 09 Jun 2026 00:00:00 GMT</pubDate>
+      <enclosure url="{{SITE_URL}}/s2026e28.mp3" length="16525465" type="audio/mpeg" />
+      <itunes:summary>Iceye hits €10B+ valuation with major funding; NewOrbit secures $18.5M for VLEO satellites; Powerex gets $30M CHIPS for semiconductor manufacturing; plus small seed rounds, Google Cloud restructuring, and Apple software updates.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>11:27</itunes:duration>
+      <itunes:image href="{{SITE_URL}}/s2026e28.jpg" />
+      <itunes:season>2026</itunes:season>
+      <itunes:episode>28</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <dc:creator>Michael Lugassy</dc:creator>
+    </item>
+    <item>
+      <title>Super Micro $7B Raise, Zepto IPO, Fusion Surge</title>
+      <description>Covers Super Micro Computer&apos;s $7 billion equity financing for server hardware production, Zepto&apos;s IPO filing targeting up to $837 million raise, Helion&apos;s $465 million round at $15.5 billion valuation for fusion manufacturing, plus layoffs at Wix and Google Cloud and hardware moves in chips and drones.</description>
+      <link>{{SITE_URL}}/29</link>
+      <guid isPermaLink="false">s2026e29</guid>
+      <pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
+      <enclosure url="{{SITE_URL}}/s2026e29.mp3" length="17737922" type="audio/mpeg" />
+      <itunes:summary>Covers Super Micro Computer&apos;s $7 billion equity financing for server hardware production, Zepto&apos;s IPO filing targeting up to $837 million raise, Helion&apos;s $465 million round at $15.5 billion valuation for fusion manufacturing, plus layoffs at Wix and Google Cloud and hardware moves in chips and drones.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>12:18</itunes:duration>
+      <itunes:image href="{{SITE_URL}}/s2026e29.jpg" />
+      <itunes:season>2026</itunes:season>
+      <itunes:episode>29</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <dc:creator>Michael Lugassy</dc:creator>
     </item>
