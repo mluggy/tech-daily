@@ -309,3 +309,13 @@ episodes:
       Apple software updates.
     date: '2026-06-09'
     cost: 2.5648
+  29:
+    season: 2026
+    title: Super Micro $7B Raise, Zepto IPO, Fusion Surge
+    description: Covers Super Micro Computer's $7 billion equity financing for 
+      server hardware production, Zepto's IPO filing targeting up to $837 
+      million raise, Helion's $465 million round at $15.5 billion valuation for 
+      fusion manufacturing, plus layoffs at Wix and Google Cloud and hardware 
+      moves in chips and drones.
+    date: '2026-06-10'
+    cost: 3.0666
