@@ -10,7 +10,7 @@
       <link>{{SITE_URL}}</link>
     </image>
     <generator>coil — https://github.com/mluggy/coil</generator>
-    <lastBuildDate>Wed, 10 Jun 2026 09:46:05 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 09:53:49 GMT</lastBuildDate>
     <atom:link href="{{SITE_URL}}/rss.xml" rel="self" type="application/rss+xml" />
     <copyright>CC BY 4.0</copyright>
     <language>en</language>
@@ -498,6 +498,38 @@
       <itunes:image href="{{SITE_URL}}/s2026e29.jpg" />
       <itunes:season>2026</itunes:season>
       <itunes:episode>29</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <dc:creator>Michael Lugassy</dc:creator>
+    </item>
+    <item>
+      <title>TDK $400M Deal, Intuit 3K Cuts Lead June 10 Tech Moves</title>
+      <description>Covers TDK&apos;s Fabric8Labs acquisition, major layoffs at Intuit and Wix, robotics funding at Standard Bots, chip manufacturing updates from Infineon and Texas Instruments, plus smaller funding rounds and IPO activity.</description>
+      <link>{{SITE_URL}}/30</link>
+      <guid isPermaLink="false">s2026e30</guid>
+      <pubDate>Thu, 11 Jun 2026 00:00:00 GMT</pubDate>
+      <enclosure url="{{SITE_URL}}/s2026e30.mp3" length="16216703" type="audio/mpeg" />
+      <itunes:summary>Covers TDK&apos;s Fabric8Labs acquisition, major layoffs at Intuit and Wix, robotics funding at Standard Bots, chip manufacturing updates from Infineon and Texas Instruments, plus smaller funding rounds and IPO activity.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>11:14</itunes:duration>
+      <itunes:image href="{{SITE_URL}}/s2026e30.jpg" />
+      <itunes:season>2026</itunes:season>
+      <itunes:episode>30</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <dc:creator>Michael Lugassy</dc:creator>
+    </item>
+    <item>
+      <title>Theker $85M Round, GMEX Launch, SPAC Filings Lead June 11</title>
+      <description>Covers Theker&apos;s $85M Series A for generalist factory robots, GMEX Robotics sensor mount debut, Pelican Acquisition II $75M tech SPAC filing, JAB Acquisition Corp IPO close, and additional hardware, funding, and strategy moves.</description>
+      <link>{{SITE_URL}}/31</link>
+      <guid isPermaLink="false">s2026e31</guid>
+      <pubDate>Fri, 12 Jun 2026 00:00:00 GMT</pubDate>
+      <enclosure url="{{SITE_URL}}/s2026e31.mp3" length="15915471" type="audio/mpeg" />
+      <itunes:summary>Covers Theker&apos;s $85M Series A for generalist factory robots, GMEX Robotics sensor mount debut, Pelican Acquisition II $75M tech SPAC filing, JAB Acquisition Corp IPO close, and additional hardware, funding, and strategy moves.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>11:02</itunes:duration>
+      <itunes:image href="{{SITE_URL}}/s2026e31.jpg" />
+      <itunes:season>2026</itunes:season>
+      <itunes:episode>31</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <dc:creator>Michael Lugassy</dc:creator>
     </item>
